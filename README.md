@@ -1,5 +1,6 @@
 # plane-game
 
+Github pages link: https://pawelnogawka.github.io/plane-game/
 
 The game comes from the "Complete JavaScript Projects Course Games 55 Modern JS DOM" course.
 
